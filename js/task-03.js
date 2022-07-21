@@ -13,6 +13,8 @@ const images = [
   },
 ];
 
+// ==================== Solution =========================== //
+
 const galleryListEl = document.querySelector(".gallery");
 
 const createGalleryItemEl = (array) => {
